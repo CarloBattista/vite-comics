@@ -64,17 +64,44 @@
     z-index: 1;
     top: 118px;
     width: 100%;
-    background: #1C1C1C;
-    .inner_main{
-        width: 80%;
-        margin: 0 auto;
-        .container__content{
-            padding: 60px 0;
-            .content_place{
-                color: #fff;
-                font-size: 1.5rem;
-                font-weight: 600;
+    .container__content{
+        padding: 60px 0;
+        background: #1C1C1C;
+        .content_place{
+            color: #fff;
+            font-size: 1.5rem;
+            font-weight: 600;
+        }
+    }
+    .container__banner{
+        padding: 60px 0;
+        background: #0282F9;
+        .row_container{
+            width: 100%;
+            display: grid;
+            grid-template-columns: repeat(5, 1fr);
+            gap: 1em;
+            align-items: center;
+            .row_card{
+                a{
+                    display: flex;
+                    align-items: center;
+                    .imgText{
+                        width: 60px;
+                    }
+                    .cardText{
+                        color: #fff;
+                        font-size: 1rem;
+                        font-weight: 500;
+                        text-transform: uppercase;
+                        margin-left: 1em;
+                    }
+                }
             }
         }
+    }
+    .inner_content{
+        width: 80%;
+        margin: 0 auto;
     }
 }
