@@ -6,6 +6,10 @@ export default {
 
 <template>
     <div>
-        <h1>Header</h1>
+        <div class="header">
+            <a href="/home" class="logoSite">
+                <img src="/imgs/dc-logo.png" alt="">
+            </a>
+        </div>
     </div>
 </template>
