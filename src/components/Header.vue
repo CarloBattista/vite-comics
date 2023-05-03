@@ -13,34 +13,34 @@ export default {
                 </a>
                 <ul class="nav">
                     <li class="listItem">
-                        <a href="/characters">Characters</a>
+                        <a class="linkPage" href="/characters">Characters</a>
                     </li>
                     <li class="listItem currentPage">
-                        <a href="/comics">Comics</a>
+                        <a class="linkPage" href="/comics">Comics</a>
                     </li>
                     <li class="listItem">
-                        <a href="/movies">Movies</a>
+                        <a class="linkPage" href="/movies">Movies</a>
                     </li>
                     <li class="listItem">
-                        <a href="/tv">Tv</a>
+                        <a class="linkPage" href="/tv">Tv</a>
                     </li>
                     <li class="listItem">
-                        <a href="/games">Games</a>
+                        <a class="linkPage" href="/games">Games</a>
                     </li>
                     <li class="listItem">
-                        <a href="/collectibles">Collectibles</a>
+                        <a class="linkPage" href="/collectibles">Collectibles</a>
                     </li>
                     <li class="listItem">
-                        <a href="/videos">Videos</a>
+                        <a class="linkPage" href="/videos">Videos</a>
                     </li>
                     <li class="listItem">
-                        <a href="/fans">Fans</a>
+                        <a class="linkPage" href="/fans">Fans</a>
                     </li>
                     <li class="listItem">
-                        <a href="/news">News</a>
+                        <a class="linkPage" href="/news">News</a>
                     </li>
                     <li class="listItem">
-                        <a href="/shop">Shop</a>
+                        <a class="linkPage" href="/shop">Shop</a>
                     </li>
                 </ul>
             </div>
