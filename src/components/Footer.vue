@@ -104,4 +104,40 @@ export default {
             <div class="logo_bg"></div>
         </div>
     </div>
+    <!-- Follow Container -->
+    <div class="follow_container">
+        <div class="inner_follow">
+            <a class="btn" href="/">Sign Up Now!</a>
+            <div class="social_follow_container">
+                <span class="title">Follow Us</span>
+                <div class="link_social">
+                    <div class="socialBox">
+                        <a href="/">
+                            <img src="/imgs/footer-facebook.png" alt="">
+                        </a>
+                    </div>
+                    <div class="socialBox">
+                        <a href="/">
+                            <img src="/imgs/footer-twitter.png" alt="">
+                        </a>
+                    </div>
+                    <div class="socialBox">
+                        <a href="/">
+                            <img src="/imgs/footer-youtube.png" alt="">
+                        </a>
+                    </div>
+                    <div class="socialBox">
+                        <a href="/">
+                            <img src="/imgs/footer-pinterest.png" alt="">
+                        </a>
+                    </div>
+                    <div class="socialBox">
+                        <a href="/">
+                            <img src="/imgs/footer-periscope.png" alt="">
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 </template>
