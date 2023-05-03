@@ -57,4 +57,24 @@
             }
         }
     }
+};
+
+.mainView{
+    position: relative;
+    z-index: 1;
+    top: 118px;
+    width: 100%;
+    background: #1C1C1C;
+    .inner_main{
+        width: 80%;
+        margin: 0 auto;
+        .container__content{
+            padding: 60px 0;
+            .content_place{
+                color: #fff;
+                font-size: 1.5rem;
+                font-weight: 600;
+            }
+        }
+    }
 }
