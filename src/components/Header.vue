@@ -5,11 +5,14 @@ export default {
 </script>
 
 <template>
+    <!-- Header -->
     <div class="header">
         <div class="inner_header">
+            <!-- Logo -->
             <a href="/" class="logoSite">
                 <img class="icon_logo" src="/imgs/dc-logo.png" alt="">
             </a>
+            <!-- Nav -->
             <ul class="nav">
                 <li class="listItem">
                     <a class="linkPage" href="/characters">Characters</a>
