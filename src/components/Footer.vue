@@ -14,89 +14,89 @@ export default {
                     <div class="up_footer_links">
                         <li class="headingLink_footer">Dc Comics</li>
                         <li class="bodyLink_footer">
-                            <a href="/">Characters</a>
+                            <a href="/characters">Characters</a>
                         </li>
                         <li class="bodyLink_footer">
-                            <a href="/">Comics</a>
+                            <a href="/comics">Comics</a>
                         </li>
                         <li class="bodyLink_footer">
-                            <a href="/">Movies</a>
+                            <a href="/movies">Movies</a>
                         </li>
                         <li class="bodyLink_footer">
-                            <a href="/">Tv</a>
+                            <a href="/tv">Tv</a>
                         </li>
                         <li class="bodyLink_footer">
-                            <a href="/">Games</a>
+                            <a href="/games">Games</a>
                         </li>
                         <li class="bodyLink_footer">
-                            <a href="/">Videos</a>
+                            <a href="/videos">Videos</a>
                         </li>
                         <li class="bodyLink_footer">
-                            <a href="/">News</a>
+                            <a href="/news">News</a>
                         </li>
                     </div>
                     <div class="down_footer_links">
                         <li class="headingLink_footer">Shop</li>
                         <li class="bodyLink_footer">
-                            <a href="/">Shop DC</a>
+                            <a href="/shop-dc">Shop DC</a>
                         </li>
                         <li class="bodyLink_footer">
-                            <a href="/">Shop DC Collectibles</a>
+                            <a href="/shop-dc-collectibles">Shop DC Collectibles</a>
                         </li>
                     </div>
                 </ul>
                 <ul class="row_links_footer">
                     <li class="headingLink_footer">Dc</li>
                     <li class="bodyLink_footer">
-                        <a href="/">Terms Of Use</a>
+                        <a href="/terms-of-use">Terms Of Use</a>
                     </li>
                     <li class="bodyLink_footer">
-                        <a href="/">Privacy policy (New)</a>
+                        <a href="/privacy-policy">Privacy policy (New)</a>
                     </li>
                     <li class="bodyLink_footer">
-                        <a href="/">Ad Choices</a>
+                        <a href="/ad-choices">Ad Choices</a>
                     </li>
                     <li class="bodyLink_footer">
-                        <a href="/">Advertising</a>
+                        <a href="/advertising">Advertising</a>
                     </li>
                     <li class="bodyLink_footer">
-                        <a href="/">Jobs</a>
+                        <a href="/jobs">Jobs</a>
                     </li>
                     <li class="bodyLink_footer">
-                        <a href="/">Subscriptions</a>
+                        <a href="/subscriptions">Subscriptions</a>
                     </li>
                     <li class="bodyLink_footer">
-                        <a href="/">Talent Workshops</a>
+                        <a href="/talent-workshops">Talent Workshops</a>
                     </li>
                     <li class="bodyLink_footer">
-                        <a href="/">CPSC Certificates</a>
+                        <a href="/cpsc-certificates">CPSC Certificates</a>
                     </li>
                     <li class="bodyLink_footer">
-                        <a href="/">Ratings</a>
+                        <a href="/ratings">Ratings</a>
                     </li>
                     <li class="bodyLink_footer">
-                        <a href="/">Shop Help</a>
+                        <a href="/shop-help">Shop Help</a>
                     </li>
                     <li class="bodyLink_footer">
-                        <a href="/">Contact Us</a>
+                        <a href="/contact-us">Contact Us</a>
                     </li>
                 </ul>
                 <ul class="row_links_footer">
                     <li class="headingLink_footer">Sites</li>
                     <li class="bodyLink_footer">
-                        <a href="/">DC</a>
+                        <a href="/dc">DC</a>
                     </li>
                     <li class="bodyLink_footer">
-                        <a href="/">MAD Magazine</a>
+                        <a href="/mad-magazine">MAD Magazine</a>
                     </li>
                     <li class="bodyLink_footer">
-                        <a href="/">DC Kids</a>
+                        <a href="/dc-kids">DC Kids</a>
                     </li>
                     <li class="bodyLink_footer">
-                        <a href="/">DC Universe</a>
+                        <a href="/dc-universe">DC Universe</a>
                     </li>
                     <li class="bodyLink_footer">
-                        <a href="/">DC Power Visa</a>
+                        <a href="/dc-power-visa">DC Power Visa</a>
                     </li>
                 </ul>
             </div>
@@ -107,32 +107,32 @@ export default {
     <!-- Follow Container -->
     <div class="follow_container">
         <div class="inner_follow">
-            <a class="btn" href="/">Sign Up Now!</a>
+            <a class="btn" href="/sing-up">Sign Up Now!</a>
             <div class="social_follow_container">
                 <span class="title">Follow Us</span>
                 <div class="link_social">
                     <div class="socialBox">
-                        <a href="/">
+                        <a href="/facebook">
                             <img src="/imgs/footer-facebook.png" alt="">
                         </a>
                     </div>
                     <div class="socialBox">
-                        <a href="/">
+                        <a href="/twitter">
                             <img src="/imgs/footer-twitter.png" alt="">
                         </a>
                     </div>
                     <div class="socialBox">
-                        <a href="/">
+                        <a href="/youtube">
                             <img src="/imgs/footer-youtube.png" alt="">
                         </a>
                     </div>
                     <div class="socialBox">
-                        <a href="/">
+                        <a href="/pinterest">
                             <img src="/imgs/footer-pinterest.png" alt="">
                         </a>
                     </div>
                     <div class="socialBox">
-                        <a href="/">
+                        <a href="/periscope">
                             <img src="/imgs/footer-periscope.png" alt="">
                         </a>
                     </div>

@@ -20,31 +20,31 @@ export default {
                 <div class="row_container">
                     <!-- Card -->
                     <div class="row_card">
-                        <a href="/">
+                        <a href="/digital-comics">
                             <img class="imgText" src="/imgs/buy-comics-digital-comics.png" alt="">
                             <span class="cardText">Digital Comics</span>
                         </a>
                     </div>
                     <div class="row_card">
-                        <a href="/">
+                        <a href="/dc-merchandise">
                             <img class="imgText" src="/imgs/buy-comics-merchandise.png" alt="">
                             <span class="cardText">Dc Merchandise</span>
                         </a>
                     </div>
                     <div class="row_card">
-                        <a href="/">
+                        <a href="/subscription">
                             <img class="imgText" src="/imgs/buy-comics-subscriptions.png" alt="">
                             <span class="cardText">Subscription</span>
                         </a>
                     </div>
                     <div class="row_card">
-                        <a href="/">
+                        <a href="/comic-shop-location">
                             <img class="imgText" src="/imgs/buy-comics-shop-locator.png" alt="">
                             <span class="cardText">Comic Shop Location</span>
                         </a>
                     </div>
                     <div class="row_card">
-                        <a href="/">
+                        <a href="/dc-power-visa">
                             <img class="imgText" src="/imgs/buy-dc-power-visa.svg" alt="">
                             <span class="cardText">Dc Power Visa</span>
                         </a>
