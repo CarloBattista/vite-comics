@@ -77,8 +77,8 @@ export default {
                         <li class="list_mobile">
                             <a class="linkPage" href="/characters">Characters</a>
                         </li>
-                        <li class="list_mobile mobile_page_active">
-                            <a class="linkPage" href="/comics">Comics</a>
+                        <li class="list_mobile">
+                            <a class="linkPage mobile_page_active" href="/comics">Comics</a>
                         </li>
                         <li class="list_mobile">
                             <a class="linkPage" href="/movies">Movies</a>

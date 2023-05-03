@@ -112,6 +112,16 @@
                         &:last-child{
                             margin-bottom: 0;
                         }
+                        .linkPage{
+                            color: #1C1C1C;
+                            font-size: 0.9rem;
+                            font-weight: 500;
+                            text-transform: uppercase;
+                        }
+                        .mobile_page_active{
+                            color: #0282F9;
+                            font-weight: 700;
+                        }
                     }
                 }
             }
