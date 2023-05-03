@@ -62,7 +62,8 @@
 .mainView{
     position: relative;
     z-index: 1;
-    top: 118px;
+    margin-top: 118px;
+    top: 0;
     width: 100%;
     .container__content{
         padding: 60px 0;
