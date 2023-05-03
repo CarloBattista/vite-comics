@@ -10,7 +10,7 @@ export default {
         <div class="inner_footer">
             <!-- Link Footer -->
             <div class="links_footer_row_container">
-                <ul class="row_links_footer">
+                <ul class="row_links_footer" id="row_footer_one">
                     <div class="up_footer_links">
                         <li class="headingLink_footer">Dc Comics</li>
                         <li class="bodyLink_footer">
