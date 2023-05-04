@@ -7,10 +7,17 @@ export default {
 <template>
     <!-- MainView -->
     <div class="mainView">
+        <!-- Container Hero -->
+        <div class="container__hero">
+            <img class="hero_img" src="https://bleedingcool.com/wp-content/uploads/2020/06/DC-Comics-Spotify-Logo-1200x628.jpg" alt="hero image">
+        </div>
         <!-- Container content -->
         <div class="container__content">
             <div class="inner_content">
-                <h2 class="content_place">...Content goes here...</h2>
+                <div class="container_heading">
+                    <h2 class="heading_content">Current Series</h2>
+                </div>
+                <div class="container_series"></div>
             </div>
         </div>
         <!-- Container Banner -->

@@ -39,4 +39,8 @@ body {
   user-select: none;
 }
 
+img {
+  display: block;
+}
+
 </style>
