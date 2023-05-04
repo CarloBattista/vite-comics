@@ -103,7 +103,7 @@ export default {
                     <h2 class="heading_content">Current Series</h2>
                 </div>
                 <div class="container_series">
-                    <CardSeries/>
+                    <CardSeries v-for="(element, index) in series"/>
                     <!-- <div class="cardSeries" v-for="(element, index) in series" :key="index">
                         <a href="/">
                             <div class="imgWrap">
