@@ -11,10 +11,10 @@ export default {
     <div class="cardSeries">
         <a href="/">
             <div class="imgWrap">
-                <img class="img_series" src="https://www.coverbrowser.com/image/action-comics/1-1.jpg" alt="">
+                <img class="img_series" :src="cardInfo.thumb" :alt="'image of ' + cardInfo.series">
             </div>
             <div class="infoWrap">
-                <p class="title_series">Name Series</p>
+                <p class="title_series">{{ cardInfo.series }}</p>
             </div>
         </a>
     </div>
