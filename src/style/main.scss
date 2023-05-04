@@ -57,7 +57,8 @@
                     font-weight: 500;
                     text-transform: uppercase;
                     transition: color 200ms ease;
-                    &:hover{
+
+                    &:hover {
                         color: #0282F9;
                     }
                 }
@@ -134,7 +135,8 @@
                             font-weight: 500;
                             text-transform: uppercase;
                             transition: color 200ms ease;
-                            &:hover{
+
+                            &:hover {
                                 color: #0282F9;
                             }
                         }
@@ -149,7 +151,9 @@
             }
         }
     }
-};
+}
+
+;
 
 .mainView {
     position: relative;
@@ -162,9 +166,10 @@
         margin-top: 60px;
     }
 
-    .container__hero{
+    .container__hero {
         width: 100%;
-        .hero_img{
+
+        .hero_img {
             background-image: url("/imgs/jumbotron.jpg");
             background-position: center top;
             background-repeat: no-repeat;
@@ -172,6 +177,10 @@
             width: 100%;
             min-height: 450px;
             aspect-ratio: 16 / 4;
+
+            @media only screen and (max-width: 720px) {
+                min-height: auto;
+            }
         }
     }
 
@@ -179,13 +188,15 @@
         position: relative;
         padding: 60px 0;
         background: #1C1C1C;
-        .container_heading{
+
+        .container_heading {
             background: #0282F9;
             padding: 8px 20px;
             display: inline-block;
             position: absolute;
             top: 0;
             transform: translateY(-50%);
+
             .heading_content {
                 color: #fff;
                 font-size: 1.5rem;
@@ -195,7 +206,7 @@
         }
     }
 
-    .container_series{
+    .container_series {
         position: relative;
         z-index: 2;
         width: 100%;
@@ -204,6 +215,7 @@
         column-gap: 1em;
         grid-row-gap: 3em;
         grid-template-columns: repeat(6, 1fr);
+
         @media only screen and (max-width: 1230px) {
             grid-template-columns: repeat(3, 1fr);
         }
@@ -211,26 +223,32 @@
         @media only screen and (max-width: 720px) {
             grid-template-columns: repeat(2, 1fr);
         }
-        .cardSeries{
+
+        .cardSeries {
             width: 100%;
-            .imgWrap{
+
+            .imgWrap {
                 width: 100%;
                 height: auto;
                 transition: transform 300ms ease 50ms;
+
                 &:hover {
                     transform: scale(1.1);
                 }
-                .img_series{
+
+                .img_series {
                     width: 100%;
                     height: 100%;
                     aspect-ratio: 1;
                     object-fit: cover;
                 }
             }
-            .infoWrap{
+
+            .infoWrap {
                 width: 100%;
                 margin-top: .4em;
-                .title_series{
+
+                .title_series {
                     color: #fff;
                     font-size: 1rem;
                     font-weight: 600;
@@ -240,14 +258,15 @@
         }
     }
 
-    .container_cta{
+    .container_cta {
         position: relative;
         width: 100%;
         margin-top: 30px;
         display: flex;
         align-items: center;
         justify-content: center;
-        .btn_load_more{
+
+        .btn_load_more {
             background: transparent;
             border: 2px solid #0282F9;
             text-align: center;
@@ -259,10 +278,12 @@
             transition: all 200ms ease;
             cursor: pointer;
         }
-        .inverted_btn{
+
+        .inverted_btn {
             background: #0282F9;
             color: #fff;
-            &:hover{
+
+            &:hover {
                 border: 2px solid #005fb7;
                 background: #005fb7;
             }
@@ -352,6 +373,7 @@
             background-size: 35%;
             width: 100%;
             height: 100%;
+
             @media only screen and (max-width: 720px) {
                 background-size: 60%;
             }
@@ -362,12 +384,14 @@
             z-index: 5;
             width: 100%;
             display: flex;
+
             @media only screen and (max-width: 720px) {
                 display: block;
             }
 
             .row_links_footer {
                 margin-right: 2em;
+
                 @media only screen and (max-width: 720px) {
                     margin-right: 0;
                     margin-bottom: 2em;
@@ -398,7 +422,8 @@
                     }
                 }
             }
-            #row_footer_one{
+
+            #row_footer_one {
                 @media only screen and (max-width: 720px) {
                     display: flex;
                     justify-content: space-between;
@@ -423,6 +448,7 @@
         display: flex;
         align-items: center;
         justify-content: space-between;
+
         @media only screen and (max-width: 720px) {
             display: block;
         }
@@ -437,7 +463,8 @@
             font-weight: 600;
             text-transform: uppercase;
             transition: all 200ms ease;
-            &:hover{
+
+            &:hover {
                 background: #0282F9;
             }
         }
@@ -445,6 +472,7 @@
         .social_follow_container {
             display: flex;
             align-items: center;
+
             @media only screen and (max-width: 720px) {
                 margin-top: 3em;
             }
@@ -455,6 +483,7 @@
                 font-weight: 700;
                 text-transform: uppercase;
                 margin-right: .5em;
+
                 @media only screen and (max-width: 720px) {
                     font-size: 1rem;
                 }
