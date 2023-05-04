@@ -199,6 +199,13 @@
         column-gap: 1em;
         grid-row-gap: 3em;
         grid-template-columns: repeat(6, 1fr);
+        @media only screen and (max-width: 1230px) {
+            grid-template-columns: repeat(3, 1fr);
+        }
+
+        @media only screen and (max-width: 720px) {
+            grid-template-columns: repeat(2, 1fr);
+        }
         .cardSeries{
             width: 100%;
             .imgWrap{
