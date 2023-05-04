@@ -92,7 +92,7 @@ export default {
     <div class="mainView">
         <!-- Container Hero -->
         <div class="container__hero">
-            <img class="hero_img" src="https://bleedingcool.com/wp-content/uploads/2020/06/DC-Comics-Spotify-Logo-1200x628.jpg" alt="hero image">
+            <div class="hero_img"></div>
         </div>
         <!-- Container content -->
         <div class="container__content">

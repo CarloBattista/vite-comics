@@ -165,9 +165,13 @@
     .container__hero{
         width: 100%;
         .hero_img{
+            background-image: url("/imgs/jumbotron.jpg");
+            background-position: center top;
+            background-repeat: no-repeat;
+            background-size: cover;
             width: 100%;
-            object-fit: cover;
-            aspect-ratio: 16 / 6;
+            min-height: 450px;
+            aspect-ratio: 16 / 4;
         }
     }
 
