@@ -1,6 +1,11 @@
 <script>
+import CardSeries from "./CardSeries.vue"
+
 export default {
     name: "MainComp",
+    components: {
+        CardSeries,
+    },
     data() {
         return {
             series: [
@@ -98,7 +103,8 @@ export default {
                     <h2 class="heading_content">Current Series</h2>
                 </div>
                 <div class="container_series">
-                    <div class="cardSeries" v-for="(element, index) in series" :key="index">
+                    <CardSeries/>
+                    <!-- <div class="cardSeries" v-for="(element, index) in series" :key="index">
                         <a href="/">
                             <div class="imgWrap">
                                 <img class="img_series" :src="element.thumb" :alt="'image of ' + element.series">
@@ -107,7 +113,7 @@ export default {
                                 <p class="title_series">{{ element.series }}</p>
                             </div>
                         </a>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
