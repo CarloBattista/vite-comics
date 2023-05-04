@@ -17,7 +17,128 @@ export default {
                 <div class="container_heading">
                     <h2 class="heading_content">Current Series</h2>
                 </div>
-                <div class="container_series"></div>
+                <div class="container_series">
+                    <div class="cardSeries">
+                        <a href="/">
+                            <div class="imgWrap">
+                                <img class="img_series" src="https://media.wired.com/photos/593384dad80dd005b42b2817/master/w_2560%2Cc_limit/Aquaman-16.jpg" alt="series image">
+                            </div>
+                            <div class="infoWrap">
+                                <p class="title_series">Nome serie</p>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="cardSeries">
+                        <a href="/">
+                            <div class="imgWrap">
+                                <img class="img_series" src="https://media.wired.com/photos/593384dad80dd005b42b2817/master/w_2560%2Cc_limit/Aquaman-16.jpg" alt="series image">
+                            </div>
+                            <div class="infoWrap">
+                                <p class="title_series">Nome serie</p>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="cardSeries">
+                        <a href="/">
+                            <div class="imgWrap">
+                                <img class="img_series" src="https://media.wired.com/photos/593384dad80dd005b42b2817/master/w_2560%2Cc_limit/Aquaman-16.jpg" alt="series image">
+                            </div>
+                            <div class="infoWrap">
+                                <p class="title_series">Nome serie</p>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="cardSeries">
+                        <a href="/">
+                            <div class="imgWrap">
+                                <img class="img_series" src="https://media.wired.com/photos/593384dad80dd005b42b2817/master/w_2560%2Cc_limit/Aquaman-16.jpg" alt="series image">
+                            </div>
+                            <div class="infoWrap">
+                                <p class="title_series">Nome serie</p>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="cardSeries">
+                        <a href="/">
+                            <div class="imgWrap">
+                                <img class="img_series" src="https://media.wired.com/photos/593384dad80dd005b42b2817/master/w_2560%2Cc_limit/Aquaman-16.jpg" alt="series image">
+                            </div>
+                            <div class="infoWrap">
+                                <p class="title_series">Nome serie</p>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="cardSeries">
+                        <a href="/">
+                            <div class="imgWrap">
+                                <img class="img_series" src="https://media.wired.com/photos/593384dad80dd005b42b2817/master/w_2560%2Cc_limit/Aquaman-16.jpg" alt="series image">
+                            </div>
+                            <div class="infoWrap">
+                                <p class="title_series">Nome serie</p>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="cardSeries">
+                        <a href="/">
+                            <div class="imgWrap">
+                                <img class="img_series" src="https://media.wired.com/photos/593384dad80dd005b42b2817/master/w_2560%2Cc_limit/Aquaman-16.jpg" alt="series image">
+                            </div>
+                            <div class="infoWrap">
+                                <p class="title_series">Nome serie</p>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="cardSeries">
+                        <a href="/">
+                            <div class="imgWrap">
+                                <img class="img_series" src="https://media.wired.com/photos/593384dad80dd005b42b2817/master/w_2560%2Cc_limit/Aquaman-16.jpg" alt="series image">
+                            </div>
+                            <div class="infoWrap">
+                                <p class="title_series">Nome serie</p>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="cardSeries">
+                        <a href="/">
+                            <div class="imgWrap">
+                                <img class="img_series" src="https://media.wired.com/photos/593384dad80dd005b42b2817/master/w_2560%2Cc_limit/Aquaman-16.jpg" alt="series image">
+                            </div>
+                            <div class="infoWrap">
+                                <p class="title_series">Nome serie</p>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="cardSeries">
+                        <a href="/">
+                            <div class="imgWrap">
+                                <img class="img_series" src="https://media.wired.com/photos/593384dad80dd005b42b2817/master/w_2560%2Cc_limit/Aquaman-16.jpg" alt="series image">
+                            </div>
+                            <div class="infoWrap">
+                                <p class="title_series">Nome serie</p>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="cardSeries">
+                        <a href="/">
+                            <div class="imgWrap">
+                                <img class="img_series" src="https://media.wired.com/photos/593384dad80dd005b42b2817/master/w_2560%2Cc_limit/Aquaman-16.jpg" alt="series image">
+                            </div>
+                            <div class="infoWrap">
+                                <p class="title_series">Nome serie</p>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="cardSeries">
+                        <a href="/">
+                            <div class="imgWrap">
+                                <img class="img_series" src="https://media.wired.com/photos/593384dad80dd005b42b2817/master/w_2560%2Cc_limit/Aquaman-16.jpg" alt="series image">
+                            </div>
+                            <div class="infoWrap">
+                                <p class="title_series">Nome serie</p>
+                            </div>
+                        </a>
+                    </div>
+                </div>
             </div>
         </div>
         <!-- Container Banner -->
