@@ -1,7 +1,8 @@
 <script>
 
 export default {
-    name: "CardSeries"
+    name: "CardSeries",
+    props: ["cardInfo"]
 }
 
 </script>
