@@ -92,9 +92,7 @@ export default {
     <div class="mainView">
         <!-- Container Hero -->
         <div class="container__hero">
-            <img class="hero_img"
-                src="https://bleedingcool.com/wp-content/uploads/2020/06/DC-Comics-Spotify-Logo-1200x628.jpg"
-                alt="hero image">
+            <img class="hero_img" src="https://bleedingcool.com/wp-content/uploads/2020/06/DC-Comics-Spotify-Logo-1200x628.jpg" alt="hero image">
         </div>
         <!-- Container content -->
         <div class="container__content">
@@ -114,6 +112,9 @@ export default {
                             </div>
                         </a>
                     </div> -->
+                </div>
+                <div class="container_cta">
+                    <button type="button" class="btn_load_more inverted_btn">Load More</button>
                 </div>
             </div>
         </div>
