@@ -172,12 +172,16 @@
     }
 
     .container__content {
+        position: relative;
         padding: 60px 0;
         background: #1C1C1C;
         .container_heading{
             background: #0282F9;
             padding: 8px 20px;
             display: inline-block;
+            position: absolute;
+            top: 0;
+            transform: translateY(-50%);
             .heading_content {
                 color: #fff;
                 font-size: 1.5rem;
